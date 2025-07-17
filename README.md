@@ -10,6 +10,12 @@ or
 
 `./gradlew bootTestRun`(to run with unit tests)
 
+I added OpenAPI, so you can see the API contract and run tests in
+http://localhost:8080/webjars/swagger-ui/index.html
+once the app is running
+
+
+
 
 ### Mock downstream request
 
