@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: mock
+
+downstream:
+  url: http://localhost:9090/api
